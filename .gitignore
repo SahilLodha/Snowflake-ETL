@@ -1,0 +1,5 @@
+.git/
+**/.idea/
+.config.ini
+**/.ipynb_checkpoints/
+**/__pycache__/
